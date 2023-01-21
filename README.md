@@ -23,3 +23,15 @@ Path Lumping algorithm uses interfluxes between pathways as criteria to lump pat
 ```console
 Recommended references : J. Chem. Phys. 147, 044112 (2017)
 ```
+#### Details procedues:
+(1). Committor_Probability_Calculation: compute committor probabilities between each pair of microstates by solving linear equation;
+
+(2). Flux_Matrix_Calculation: construct flux matrix according to net fluxes;
+
+(3). Loopless_Flux_Calculation: construct loopless flux matrix by removing recrossing and loops; (geometric tricks)
+
+(4). Merge-Pathways: merge repeated pathways;
+
+(5). Inter_Path_Flux: scan the interfluxes between each pair of paths;
+
+(6). Spectral_Cluster_Path_Channel : cluster paths based on interfluxes matrix by spectral-clustering
