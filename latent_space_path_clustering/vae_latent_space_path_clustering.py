@@ -1,4 +1,5 @@
 ### I acknowledge Mingyi Xue's great help for this code.
+### Author: Yunrui QIU, Mingyi Xue     email: yunruiqiu@gmail.com, mxue33@wisc.edu
 
 import glob
 import os
