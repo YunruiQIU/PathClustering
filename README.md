@@ -2,6 +2,9 @@ PathClustering
 ==========
 Cluster the transition pathways according to their kinetics;
 
+## Acknowledgement
+I would like to express my sincere appreciation for Mingyi Xue's great help for the VAE architecture contributions.
+
 ## Markov State Model (MSM) 
 MSM has power to elucidate the kinetic mechanism of complicated dynamical system.
 It converts the high-dimensional time sequence to transitions between few microstates.
