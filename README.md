@@ -38,3 +38,9 @@ Recommended references : J. Chem. Phys. 147, 044112 (2017)
 (5). Inter_Path_Flux: scan the interfluxes between each pair of paths;
 
 (6). Spectral_Cluster_Path_Channel : cluster paths based on interfluxes matrix by spectral-clustering
+
+## Latent space Path Clustering (LPC) Algorithm
+LPC method can efficiently group parallel kinetic pathways into distinct metastable path channels. It utilizes the variational autoencoder (VAE) to learn the spatial distributions of kinetic pathways and perform path clustering in the latent space. 
+```console
+Recommended references : An Efficient Path Classification Algorithm Based on Variational Autoencoder to Identify Metastable Path Channels for Complex Conformational Changes (https://doi.org/10.1021/acs.jctc.3c00318)
+```
