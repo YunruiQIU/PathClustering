@@ -42,5 +42,5 @@ Recommended references : J. Chem. Phys. 147, 044112 (2017)
 ## Latent space Path Clustering (LPC) Algorithm
 LPC method can efficiently group parallel kinetic pathways into distinct metastable path channels. It utilizes the variational autoencoder (VAE) to learn the spatial distributions of kinetic pathways and perform path clustering in the latent space. 
 ```console
-Recommended references : An Efficient Path Classification Algorithm Based on Variational Autoencoder to Identify Metastable Path Channels for Complex Conformational Changes (https://doi.org/10.1021/acs.jctc.3c00318)
+Recommended references :J. Chem. Theory Comput. 2023, 19, 14, 4728–4742
 ```
